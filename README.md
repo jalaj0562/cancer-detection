@@ -1,5 +1,5 @@
-# cancer-detetcion
-# 🧬 Cancer Detection using Deep Learning
+# cancer-detection
+# 🧬 Cancer Detectionn using Deep Learning
 
 This project leverages Convolutional Neural Networks (CNNs) for the automated detection of cancer from histopathological images. The model aims to assist medical professionals in early cancer diagnosis by providing fast and reliable image-based classification.
 
